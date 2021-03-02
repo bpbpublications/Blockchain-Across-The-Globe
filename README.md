@@ -1,2 +1,2 @@
-# Blockchain-Across-The-Globe
-Blockchain Across The Globe, published by BPB Publications
+# Blockchain in e-Governance
+Blockchain in e-Governance, published by BPB Publications
